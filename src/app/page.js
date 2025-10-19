@@ -1,7 +1,7 @@
 export default function HomePage() {
   return (
     <>
-      <div>Welcome to the Home Page</div>
+      <div className="text-green-600">Welcome to the Home Page</div>
     </>
   )
 }
